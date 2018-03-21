@@ -1,0 +1,9 @@
+author = spacechase0
+version = 1.0
+displayName = SpaceMod
+homepage = http://spacechase0.com/mods/terraria/spacemod
+hideCode = false
+hideResources = false
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, .git\*, .gitignore
+includePDB = true

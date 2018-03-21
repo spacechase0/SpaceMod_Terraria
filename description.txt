@@ -1,0 +1,5 @@
+A mod of things spacechase0 has made.
+
+Currently includes a post-Moonlord grappling hook.
+
+Also adds recipes for: Unlucky Yarn, Dog Whistle
